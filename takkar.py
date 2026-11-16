@@ -1,4 +1,5 @@
 # Difficulty at date of completion: 1.0 (easy)
+# https://open.kattis.com/problems/takkar
 
 trump = int(input())
 kim = int(input())
